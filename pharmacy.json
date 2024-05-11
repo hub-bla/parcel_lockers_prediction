@@ -1,0 +1,3995 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-05-11T13:41:06Z",
+    "timestamp_areas_base": "2024-05-11T09:04:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 299769943,
+  "lat": 52.3845300,
+  "lon": 16.8465591,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "13",
+    "addr:postcode": "60-163",
+    "addr:street": "Junikowska",
+    "amenity": "pharmacy",
+    "brand": "AIP Group; NFZ",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Junikowska",
+    "ref:csioz": "1055362",
+    "source:addr": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 338912397,
+  "lat": 52.3951399,
+  "lon": 16.8698230,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "141",
+    "addr:postcode": "60-279",
+    "addr:street": "Macieja Palacza",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "official_name": "Doz Apteka Dbam O Zdrowie. Kaja",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "ref:csioz": "1051443"
+  }
+},
+{
+  "type": "node",
+  "id": 359892971,
+  "lat": 52.3991702,
+  "lon": 16.9502285,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 670 40 42 int. 2",
+    "ref:csioz": "1047044"
+  }
+},
+{
+  "type": "node",
+  "id": 359895528,
+  "lat": 52.3871198,
+  "lon": 16.9751347,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Dbam O Zdrowie",
+    "ref:csioz": "1055794"
+  }
+},
+{
+  "type": "node",
+  "id": 359895938,
+  "lat": 52.3952047,
+  "lon": 16.9758554,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Familijna",
+    "phone": "+48 61 641 99 45",
+    "ref:csioz": "1051239"
+  }
+},
+{
+  "type": "node",
+  "id": 430552816,
+  "lat": 52.4081462,
+  "lon": 16.9324631,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "75",
+    "addr:postcode": "61-772",
+    "addr:street": "Stary Rynek",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Złotym Lwem",
+    "name:fa": "در شیر طلایی",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "ref:csioz": "1047066",
+    "source": "survey",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 431913522,
+  "lat": 52.4058514,
+  "lon": 16.9327111,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "20",
+    "addr:postcode": "61-838",
+    "addr:street": "Wrocławska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Na Starówce",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-18:00; Su off",
+    "ref:csioz": "1045105",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 448128248,
+  "lat": 52.3836620,
+  "lon": 16.9674140,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Vita-Farm",
+    "ref:csioz": "1055577"
+  }
+},
+{
+  "type": "node",
+  "id": 451740827,
+  "lat": 52.3654987,
+  "lon": 16.9046416,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2A",
+    "addr:postcode": "61-445",
+    "addr:street": "Bukowa",
+    "alt_name": "Bukowa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Bukowa",
+    "opening_hours": "Mo-Fr 8:00-19:00; Sa 8:00-14:00",
+    "ref:csioz": "1051435"
+  }
+},
+{
+  "type": "node",
+  "id": 491638326,
+  "lat": 52.4108355,
+  "lon": 16.8328881,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2a",
+    "addr:postcode": "60-195",
+    "addr:street": "Rumcajsa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "name": "Apteka Bajkowa",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1050836"
+  }
+},
+{
+  "type": "node",
+  "id": 538778568,
+  "lat": 52.4524812,
+  "lon": 16.9481717,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "176",
+    "addr:postcode": "61-601",
+    "addr:street": "Naramowicka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacon",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-15:00",
+    "phone": "+48 61 822 90 55",
+    "ref:csioz": "1046923"
+  }
+},
+{
+  "type": "node",
+  "id": 538791126,
+  "lat": 52.4384664,
+  "lon": 16.9411848,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "104",
+    "addr:place": "Osiedle Kosmonautów",
+    "addr:postcode": "61-642",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Wielkopolska",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-16:00",
+    "phone": "+48 61 670 40 42 int. 6",
+    "ref:csioz": "1051389"
+  }
+},
+{
+  "type": "node",
+  "id": 552815568,
+  "lat": 52.4060141,
+  "lon": 16.9267077,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Fontana",
+    "ref:csioz": "1055356"
+  }
+},
+{
+  "type": "node",
+  "id": 583405173,
+  "lat": 52.4110311,
+  "lon": 16.9120107,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-16:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 12 687 57 47",
+    "ref:csioz": "1205282",
+    "short_name": "Ziko",
+    "website": "https://www.ziko.pl/poznan-apteki-drogerie-ziko/dabrowskiego-7/"
+  }
+},
+{
+  "type": "node",
+  "id": 583405317,
+  "lat": 52.4095608,
+  "lon": 16.9234645,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "4b",
+    "addr:postcode": "61-726",
+    "addr:street": "Plac Cyryla Ratajskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Optima",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1176507"
+  }
+},
+{
+  "type": "node",
+  "id": 583424595,
+  "lat": 52.4120924,
+  "lon": 16.9059275,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dbam o zdrowie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+    "ref:csioz": "1049899"
+  }
+},
+{
+  "type": "node",
+  "id": 583424655,
+  "lat": 52.4107480,
+  "lon": 16.9113887,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "22",
+    "addr:postcode": "60-836",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "pharmacy",
+    "brand": "Dr. Max",
+    "brand:wikidata": "Q56317371",
+    "check_date:opening_hours": "2021-08-18",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dr. Max",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-16:00",
+    "ref:csioz": "1047418",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 583424741,
+  "lat": 52.4076296,
+  "lon": 16.9210370,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dom Leków",
+    "official_name": "Dom Leków Na Gwarnej",
+    "opening_hours": "Mo-Fr 7:00-20:00; Sa-Su 10:00-20:00",
+    "phone": "+48 61 852 52 44",
+    "ref:csioz": "1185941"
+  }
+},
+{
+  "type": "node",
+  "id": 587009112,
+  "lat": 52.4300761,
+  "lon": 16.9211225,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "141B",
+    "addr:place": "Osiedle Przyjaźni",
+    "addr:postcode": "61-689",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Winogradzka",
+    "opening_hours": "24/7",
+    "phone": "+48 61 820 16 42",
+    "ref:csioz": "1047619"
+  }
+},
+{
+  "type": "node",
+  "id": 638736650,
+  "lat": 52.4052553,
+  "lon": 16.9003662,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Przy Matejki",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-15:00",
+    "ref:csioz": "1046400",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 835297214,
+  "lat": 52.3132978,
+  "lon": 16.9666529,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Gardenia",
+    "ref:csioz": "1045872"
+  }
+},
+{
+  "type": "node",
+  "id": 868487927,
+  "lat": 52.4111150,
+  "lon": 16.8285195,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Apteka \"Złotowska\"",
+    "opening_hours": "Mo-Fr 08:00-21:00",
+    "ref:csioz": "1055531"
+  }
+},
+{
+  "type": "node",
+  "id": 875381025,
+  "lat": 52.4774405,
+  "lon": 16.7848719,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Vita Salus",
+    "opening_hours": "Mo-Fr 08:00-20:30; Sa 08:00-15:00; Su 08:00-14:00",
+    "ref:csioz": "1046980"
+  }
+},
+{
+  "type": "node",
+  "id": 928059676,
+  "lat": 52.3620834,
+  "lon": 16.9072054,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apis",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 8:00-15:00",
+    "ref:csioz": "1051123"
+  }
+},
+{
+  "type": "node",
+  "id": 961737679,
+  "lat": 52.4294653,
+  "lon": 16.9260046,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Przyjazna",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-15:00",
+    "ref:csioz": "1050428"
+  }
+},
+{
+  "type": "node",
+  "id": 975081305,
+  "lat": 52.3907063,
+  "lon": 16.9747724,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Orle Gniazdo",
+    "ref:csioz": "1177504"
+  }
+},
+{
+  "type": "node",
+  "id": 1137466936,
+  "lat": 52.3925760,
+  "lon": 16.9826427,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Zodiakiem",
+    "phone": "+48 61 876 99 55",
+    "ref:csioz": "1047712",
+    "website": "http://aptekaamfora.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1202216280,
+  "lat": 52.3997829,
+  "lon": 16.9047739,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1",
+    "addr:postcode": "60-773",
+    "addr:street": "Śniadeckich",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Od Serca",
+    "ref:csioz": "1055324"
+  }
+},
+{
+  "type": "node",
+  "id": 1402585913,
+  "lat": 52.3686646,
+  "lon": 16.9032145,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "DROSERA",
+    "ref:csioz": "1047282"
+  }
+},
+{
+  "type": "node",
+  "id": 1402585914,
+  "lat": 52.3669086,
+  "lon": 16.9045381,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "349",
+    "addr:postcode": "61-437",
+    "addr:street": "28 Czerwca 1956 roku",
+    "alt_name": "Dębiecka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zdrowa Wielkopolska",
+    "ref:csioz": "1047681",
+    "website": "https://wga.pl/poznan-debiec-ul-racjonalizatorow-2/"
+  }
+},
+{
+  "type": "node",
+  "id": 1412448753,
+  "lat": 52.4074057,
+  "lon": 16.8756670,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1047380",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1412448793,
+  "lat": 52.4101380,
+  "lon": 16.8826056,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "100",
+    "addr:postcode": "60-577",
+    "addr:street": "Bukowska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apteka.adamus2@gmail.com",
+    "healthcare": "pharmacy",
+    "name": "Adamus",
+    "opening_hours": "Mo-Fr 9:00-17:00; Sa-Su off",
+    "phone": "+48 61 862 73 44",
+    "ref:csioz": "1046522",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 1412448804,
+  "lat": 52.4130351,
+  "lon": 16.8772042,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Miodowa",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 9:00-14:00",
+    "ref:csioz": "1051088"
+  }
+},
+{
+  "type": "node",
+  "id": 1412448831,
+  "lat": 52.4171218,
+  "lon": 16.8818421,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "60-584",
+    "addr:street": "Szpitalna",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Im. I. Łukasiewicza",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00; PH,Su off",
+    "ref:csioz": "1047426"
+  }
+},
+{
+  "type": "node",
+  "id": 1412448892,
+  "lat": 52.4140891,
+  "lon": 16.8796229,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "84",
+    "addr:postcode": "60-569",
+    "addr:street": "Augustyna Szamarzewskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Lawenda",
+    "ref:csioz": "1046257",
+    "source:addr": "csioz"
+  }
+},
+{
+  "type": "node",
+  "id": 1643025762,
+  "lat": 52.3759315,
+  "lon": 16.9630831,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zielona",
+    "ref:csioz": "1195443"
+  }
+},
+{
+  "type": "node",
+  "id": 1700918737,
+  "lat": 52.3695255,
+  "lon": 16.9475501,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Przyjazna",
+    "ref:csioz": "1045907"
+  }
+},
+{
+  "type": "node",
+  "id": 1704548906,
+  "lat": 52.3796735,
+  "lon": 16.9519569,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Alium",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1050275"
+  }
+},
+{
+  "type": "node",
+  "id": 1704549163,
+  "lat": 52.3832410,
+  "lon": 16.9517189,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-16:00",
+    "phone": "+48 884 999 541",
+    "ref:csioz": "1207396",
+    "website": "https://domlekow.pl/nasze-apteki"
+  }
+},
+{
+  "type": "node",
+  "id": 1704551107,
+  "lat": 52.3878984,
+  "lon": 16.9538823,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "35",
+    "addr:place": "Osiedle Powstań Narodowych",
+    "addr:postcode": "61-215",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Medkon",
+    "ref:csioz": "1055450"
+  }
+},
+{
+  "type": "node",
+  "id": 1704551597,
+  "lat": 52.3908294,
+  "lon": 16.9530958,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "121D",
+    "addr:postcode": "61-222",
+    "addr:street": "Osiedle Jagiellońskie",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Dla Ciebie",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 07:00-18:00; Su 09:00-15:00",
+    "phone": "+48 61 872 98 84",
+    "ref:csioz": "1046382",
+    "website": "http://www.aptekadc.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1704551862,
+  "lat": 52.3902815,
+  "lon": 16.9581563,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Rataje",
+    "note": "w rejestrze aptek apteka nie ma nazwy",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 875 44 61",
+    "ref:csioz": "1055207"
+  }
+},
+{
+  "type": "node",
+  "id": 1704552651,
+  "lat": 52.3932649,
+  "lon": 16.9498774,
+  "tags": {
+    "addr:postcode": "60-227",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Gemini",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-17:00",
+    "operator": "Gemini Polska",
+    "ref:csioz": "1055936",
+    "website": "https://www.geminipolska.com.pl/apteki-stacjonarne/poznan/os-jagiellonskie-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1747692326,
+  "lat": 52.3645541,
+  "lon": 16.9278682,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "poznan.starolecka@drmax.pl",
+    "name": "Dr. Max",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 879 31 14",
+    "ref:csioz": "1050119"
+  }
+},
+{
+  "type": "node",
+  "id": 1864886699,
+  "lat": 52.3646832,
+  "lon": 16.9074317,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "92",
+    "addr:postcode": "61-443",
+    "addr:street": "Łozowa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Verus",
+    "opening_hours": "Mo-Fr 8:00-19:00; Sa 8:00-14:00",
+    "ref:csioz": "1050722"
+  }
+},
+{
+  "type": "node",
+  "id": 1864886702,
+  "lat": 52.3673863,
+  "lon": 16.9049262,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "66",
+    "addr:postcode": "61-454",
+    "addr:street": "Jaworowa",
+    "amenity": "pharmacy",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "name": "Apteka Dbam O Zdrowie",
+    "ref:csioz": "1046808"
+  }
+},
+{
+  "type": "node",
+  "id": 1867687338,
+  "lat": 52.3813325,
+  "lon": 16.9464665,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "133",
+    "addr:postcode": "61-131",
+    "addr:street": "Ludwika Zamenhofa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apteka Św. Kamila",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "phone": "+48 61 872 01 55",
+    "ref:csioz": "1179033"
+  }
+},
+{
+  "type": "node",
+  "id": 2095506457,
+  "lat": 52.4484828,
+  "lon": 16.8773589,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Helianthus",
+    "ref:csioz": "1044974"
+  }
+},
+{
+  "type": "node",
+  "id": 2165755433,
+  "lat": 52.4039655,
+  "lon": 16.8877029,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "49",
+    "addr:postcode": "60-355",
+    "addr:street": "Stanisława Przybyszewskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Nasza",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00; Su off",
+    "ref:csioz": "1190892",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2195034307,
+  "lat": 52.4352382,
+  "lon": 16.9272631,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Wielkopolska",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-20:00",
+    "phone": "+48 61 670 40 42 int. 5",
+    "ref:csioz": "1050994",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2225041735,
+  "lat": 52.4023654,
+  "lon": 16.9368060,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "16",
+    "addr:postcode": "61-867",
+    "addr:street": "Garbary",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Topfarm",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1215763",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 2313603481,
+  "lat": 52.3818303,
+  "lon": 16.9700610,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Convallaria",
+    "phone": "+48 618750169",
+    "ref:csioz": "1055833"
+  }
+},
+{
+  "type": "node",
+  "id": 2401572097,
+  "lat": 52.4455479,
+  "lon": 16.9403519,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Piotra i Pawla",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su 09:00-13:00",
+    "ref:csioz": "1055589"
+  }
+},
+{
+  "type": "node",
+  "id": 2419145160,
+  "lat": 52.3902681,
+  "lon": 16.9450050,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "77",
+    "addr:postcode": "61-159",
+    "addr:street": "Osiedle Piastowskie",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00",
+    "phone": "+48 61 435 28 92",
+    "ref:csioz": "1194216",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2419207277,
+  "lat": 52.3948229,
+  "lon": 16.9447801,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Nad Wartą",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-15:00",
+    "ref:csioz": "1044982"
+  }
+},
+{
+  "type": "node",
+  "id": 2419223060,
+  "lat": 52.3962886,
+  "lon": 16.9450365,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-15:00; Su off",
+    "phone": "+48 61 670 40 42 int. 1",
+    "ref:csioz": "1046071",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2449509932,
+  "lat": 52.4613343,
+  "lon": 16.9202136,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Witaminka",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "ref:csioz": "1123960"
+  }
+},
+{
+  "type": "node",
+  "id": 2530585007,
+  "lat": 52.3676263,
+  "lon": 16.9122661,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zdrowa Wielkopolska",
+    "ref:csioz": "1045791"
+  }
+},
+{
+  "type": "node",
+  "id": 2641876712,
+  "lat": 52.4090948,
+  "lon": 16.9856847,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "DOZ Dbam O Zdrowie Łomżyńska",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su 9:00-14:00",
+    "phone": "+48 61 879 26 43",
+    "ref:csioz": "1179610",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2814575160,
+  "lat": 52.4480418,
+  "lon": 16.9504860,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Iluminata 2",
+    "phone": "+48 61 828 74 55",
+    "ref:csioz": "1190494"
+  }
+},
+{
+  "type": "node",
+  "id": 2866194399,
+  "lat": 52.4013985,
+  "lon": 16.9359528,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dr. Max",
+    "official_name": "Dr. Max Apteka Ludzie Dla Ludzi",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
+    "phone": "+48 618523839",
+    "ref:csioz": "1050601",
+    "website": "https://www.drmax.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2940845627,
+  "lat": 52.4389361,
+  "lon": 16.9313200,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "121A",
+    "addr:place": "Osiedle Wichrowe Wzgórze",
+    "addr:postcode": "61-699",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 09:00-15:00",
+    "phone": "+48 61 670 40 42 int. 7",
+    "ref:csioz": "1045978",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3012091372,
+  "lat": 52.3926731,
+  "lon": 16.9845307,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Na Rusa",
+    "ref:csioz": "1194947"
+  }
+},
+{
+  "type": "node",
+  "id": 3079894255,
+  "lat": 52.3419468,
+  "lon": 16.9855594,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Krzesiny",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
+    "ref:csioz": "1123861"
+  }
+},
+{
+  "type": "node",
+  "id": 3134790771,
+  "lat": 52.4069054,
+  "lon": 16.9938307,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka św.Kamila",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-15:00",
+    "phone": "+48 61 224 10 21",
+    "ref:csioz": "1051218",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3196096105,
+  "lat": 52.4220373,
+  "lon": 16.9736889,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Główna",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00",
+    "phone": "+48 61 878 07 70",
+    "ref:csioz": "1055182",
+    "website": "http://www.aptekapoznan.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3226611300,
+  "lat": 52.3895633,
+  "lon": 16.8933595,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "120",
+    "addr:postcode": "60-260",
+    "addr:street": "Głogowska",
+    "amenity": "pharmacy",
+    "brand": "Dr. Max",
+    "brand:wikidata": "Q56317371",
+    "brand:wikipedia": "fr:Dr.Max",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Dr. Max",
+    "opening_hours": "24/7",
+    "phone": "+48 61 86 54 100",
+    "ref:csioz": "1182828",
+    "source": "survey;local knowledge",
+    "website": "https://drmax.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3259656898,
+  "lat": 52.3801918,
+  "lon": 16.9575772,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "34",
+    "addr:postcode": "61-249",
+    "addr:street": "Osiedle Stare Żegrze",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Aspirynka",
+    "ref:csioz": "1047111"
+  }
+},
+{
+  "type": "node",
+  "id": 3261948831,
+  "lat": 52.4204713,
+  "lon": 16.9686057,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "blacharska@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "phone": "+48 612 238 292",
+    "ref:csioz": "1186476",
+    "website": "https://aptekimedkon.pl/apteki/"
+  }
+},
+{
+  "type": "node",
+  "id": 3261949229,
+  "lat": 52.4216350,
+  "lon": 16.9700784,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Smokiem",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-14:00",
+    "phone": "+48 61 887 90 24",
+    "ref:csioz": "1045270"
+  }
+},
+{
+  "type": "node",
+  "id": 3376159667,
+  "lat": 52.4093754,
+  "lon": 16.9680767,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Komandoria P.W.Św.Jana Jerozolimskiego",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00",
+    "phone": "+48 61 877 59 10",
+    "ref:csioz": "1055403"
+  }
+},
+{
+  "type": "node",
+  "id": 3376159668,
+  "lat": 52.4130564,
+  "lon": 16.9596292,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "27",
+    "addr:postcode": "61-129",
+    "addr:street": "Stanisława Małachowskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Na Zawadach",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "phone": "+48 61 875 10 10",
+    "ref:csioz": "1049918"
+  }
+},
+{
+  "type": "node",
+  "id": 3376605276,
+  "lat": 52.4100081,
+  "lon": 16.9277163,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "mobile": "736 697 951",
+    "name": "Apteka Dbam O Zdrowie",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "ref:csioz": "1055771"
+  }
+},
+{
+  "type": "node",
+  "id": 3376744102,
+  "lat": 52.4283702,
+  "lon": 16.9160959,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "87A",
+    "addr:postcode": "60-648",
+    "addr:street": "Piątkowska",
+    "amenity": "pharmacy",
+    "brand": "Dr. Max",
+    "brand:wikidata": "Q56317371",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dr. Max",
+    "opening_hours": "24/7",
+    "phone": "+48 61 840 19 00",
+    "ref:csioz": "1182802"
+  }
+},
+{
+  "type": "node",
+  "id": 3376744103,
+  "lat": 52.3874813,
+  "lon": 16.9796577,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pamiątkowa",
+    "opening_hours": "24/7",
+    "phone": "+48 61 833 36 90",
+    "ref:csioz": "1212933"
+  }
+},
+{
+  "type": "node",
+  "id": 3695944503,
+  "lat": 52.4062477,
+  "lon": 17.0143788,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Przyjazna",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 876 83 73",
+    "ref:csioz": "1055149",
+    "website": "https://aptekaprzyjazna.pl/nasze-apteki/poznan-antoninek/"
+  }
+},
+{
+  "type": "node",
+  "id": 3697797324,
+  "lat": 52.4636074,
+  "lon": 16.9183513,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "79",
+    "addr:place": "Osiedle Stefana Batorego",
+    "addr:postcode": "60-687",
+    "amenity": "pharmacy",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dbam o Zdrowie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-15:00",
+    "ref:csioz": "1227752",
+    "short_name": "DOZ",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3697847031,
+  "lat": 52.4631848,
+  "lon": 16.9033431,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Kresowa",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-16:00; Su 10:00-13:00",
+    "ref:csioz": "1044958"
+  }
+},
+{
+  "type": "node",
+  "id": 3700171480,
+  "lat": 52.4314917,
+  "lon": 16.8091345,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wichrowa",
+    "ref:csioz": "1046261"
+  }
+},
+{
+  "type": "node",
+  "id": 3702048894,
+  "lat": 52.4109875,
+  "lon": 16.9308785,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3a",
+    "addr:postcode": "61-746",
+    "addr:street": "Plac Wielkopolski",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "plac@aptekaok.pl",
+    "name": "Apteka Od Serca",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-15:00; Su off",
+    "phone": "+48 61 223 55 39",
+    "ref:csioz": "1045769",
+    "website": "http://aptekaok.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3702048895,
+  "lat": 52.4294226,
+  "lon": 16.9278674,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "38h",
+    "addr:postcode": "61-664",
+    "addr:street": "Słowiańska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "slowianska@aptekaok.pl",
+    "name": "Apteka Od Serca",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su off",
+    "phone": "+48 61 8 201 202",
+    "ref:csioz": "1051294",
+    "website": "http://aptekaok.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3708457768,
+  "lat": 52.4126897,
+  "lon": 16.9613566,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "35",
+    "addr:postcode": "61-117",
+    "addr:street": "Piotra Tomickiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wasza",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 875 61 22",
+    "ref:csioz": "1199115",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3709588614,
+  "lat": 52.4297222,
+  "lon": 16.9398487,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "aptekafamilijna@gazeta.pl",
+    "name": "Familijna",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 821 68 04",
+    "ref:csioz": "1051676"
+  }
+},
+{
+  "type": "node",
+  "id": 3712750112,
+  "lat": 52.4586503,
+  "lon": 16.9128102,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Gemini",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-16:00; Su off",
+    "phone": "+48 61 822 56 81",
+    "ref:csioz": "1055427"
+  }
+},
+{
+  "type": "node",
+  "id": 3712750116,
+  "lat": 52.4627626,
+  "lon": 16.9116772,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Passiflora",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 823 56 81",
+    "ref:csioz": "1217215",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3724007792,
+  "lat": 52.4367477,
+  "lon": 16.9050960,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+48 61 670 40 42",
+    "ref:csioz": "1048027"
+  }
+},
+{
+  "type": "node",
+  "id": 3724007793,
+  "lat": 52.4385627,
+  "lon": 16.9217869,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-18:00",
+    "phone": "+48 61 670 40 42 int. 8",
+    "ref:csioz": "1047314"
+  }
+},
+{
+  "type": "node",
+  "id": 3724019179,
+  "lat": 52.4601798,
+  "lon": 16.9029157,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Wielkolpolska",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 670 40 42 int. 9",
+    "ref:csioz": "1047635"
+  }
+},
+{
+  "type": "node",
+  "id": 3724028336,
+  "lat": 52.3833767,
+  "lon": 16.9125985,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 670 40 42 int. 3",
+    "ref:csioz": "1050546"
+  }
+},
+{
+  "type": "node",
+  "id": 3724042036,
+  "lat": 52.4112277,
+  "lon": 16.8955554,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "40",
+    "addr:postcode": "60-533",
+    "addr:street": "Polna",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 662 85 31",
+    "ref:csioz": "1182889",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3734489660,
+  "lat": 52.4531058,
+  "lon": 16.9231985,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apteka_eko@vp.pl",
+    "name": "Adamus",
+    "phone": "+48 61 820 11 60",
+    "ref:csioz": "1050242"
+  }
+},
+{
+  "type": "node",
+  "id": 3734489661,
+  "lat": 52.4515665,
+  "lon": 16.9287704,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "umultowska@nasza-apteka.eu",
+    "name": "Nasza Apteka",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-15:00",
+    "phone": "+48 61 656 41 29; +48 602 525 116",
+    "ref:csioz": "1050203",
+    "website": "https://nasza-apteka.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3734489663,
+  "lat": 52.4498068,
+  "lon": 16.9152597,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Biofarm",
+    "ref:csioz": "1047643"
+  }
+},
+{
+  "type": "node",
+  "id": 3734489664,
+  "lat": 52.4491303,
+  "lon": 16.9151568,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "yes",
+    "name": "Apteka Verus",
+    "ref:csioz": "1123368"
+  }
+},
+{
+  "type": "node",
+  "id": 3734489665,
+  "lat": 52.4555628,
+  "lon": 16.9040271,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "strozynskiego@medkon.pl",
+    "healthcare": "pharmacy",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 221 94 57",
+    "ref:csioz": "1186468",
+    "website": "https://aptekimedkon.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3739530623,
+  "lat": 52.4571359,
+  "lon": 16.9222796,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "17E",
+    "addr:place": "Osiedle Stefana Batorego",
+    "addr:postcode": "60-687",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Królewska",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "phone": "+48 61 824 70 67",
+    "ref:csioz": "1192459",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 3740111226,
+  "lat": 52.3943262,
+  "lon": 16.8721829,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1E",
+    "addr:postcode": "60-281",
+    "addr:street": "Jana Heweliusza",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 8:00-18:00; Su 10:00-18:00",
+    "phone": "+48 61 225 99 80",
+    "ref:csioz": "1184361",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562008,
+  "lat": 52.4053909,
+  "lon": 16.9321698,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 11:00-19:00",
+    "phone": "+48 61 850 89 50",
+    "ref:csioz": "1186728",
+    "short_name": "Ziko",
+    "website": "http://zikoapteka.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562016,
+  "lat": 52.4045115,
+  "lon": 16.9309611,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "5",
+    "addr:postcode": "61-885",
+    "addr:street": "Półwiejska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Apteka Gemini",
+    "ref:csioz": "1048075"
+  }
+},
+{
+  "type": "node",
+  "id": 3796795276,
+  "lat": 52.3998427,
+  "lon": 16.8755950,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Apteka Dbam O Zdrowie",
+    "official_name": "Magdalena Radecka Pharmacy",
+    "ref:csioz": "1123580"
+  }
+},
+{
+  "type": "node",
+  "id": 3812861094,
+  "lat": 52.3627761,
+  "lon": 16.9018402,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "phone": "+48 61 224 65 79",
+    "ref:csioz": "1182844",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3812861095,
+  "lat": 52.3891374,
+  "lon": 16.9179730,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "144",
+    "addr:postcode": "61-485",
+    "addr:street": "28 Czerwca 1956 roku",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:00-16:00; Su 10:00-15:00",
+    "phone": "+48 61 830 05 72",
+    "ref:csioz": "1186005",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3812861096,
+  "lat": 52.4033825,
+  "lon": 16.9302314,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "17",
+    "addr:postcode": "61-885",
+    "addr:street": "Półwiejska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa 09:00-21:00; Su 10:00-20:00",
+    "phone": "+48 61 850 12 50",
+    "ref:csioz": "1186026",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3812861097,
+  "lat": 52.4503799,
+  "lon": 16.9481348,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-19:00",
+    "phone": "+48 539 950 971",
+    "ref:csioz": "1182866",
+    "website": "https://domlekow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3845862658,
+  "lat": 52.4101356,
+  "lon": 16.8628387,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Super - Pharm",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "phone": "+48 61 886 04 88",
+    "ref:csioz": "1050490",
+    "website": "https://www.superpharm.pl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3855641192,
+  "lat": 52.4325994,
+  "lon": 16.8331754,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "smochowice@nasza-apteka.eu",
+    "healthcare": "pharmacy",
+    "name": "Nasza",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 09:00-15:00",
+    "phone": "+48 784 063 784",
+    "ref:csioz": "1187447",
+    "website": "https://nasza-apteka.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3855641193,
+  "lat": 52.4416117,
+  "lon": 16.9226638,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "zwyciestwa@nasza-apteka.eu",
+    "name": "Nasza Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-13:00; Su off",
+    "phone": "+48 61 828 81 64;+48 602 525 129",
+    "ref:csioz": "1050567",
+    "website": "https://nasza-apteka.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3899638755,
+  "lat": 52.4300713,
+  "lon": 16.9415832,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Elixir",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off",
+    "phone": "+48 61 820 07 13",
+    "ref:csioz": "1047608"
+  }
+},
+{
+  "type": "node",
+  "id": 3902821113,
+  "lat": 52.3998649,
+  "lon": 16.9352493,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "48A",
+    "addr:postcode": "61-846",
+    "addr:street": "Strzelecka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Apteka Dr. Optima",
+    "note:addr": "adres nie został nadany urzędowo",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off",
+    "ref:csioz": "1182815",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3934556260,
+  "lat": 52.3836365,
+  "lon": 16.9601112,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "ref:csioz": "1175797"
+  }
+},
+{
+  "type": "node",
+  "id": 4112833353,
+  "lat": 52.4035954,
+  "lon": 16.9364047,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1/2",
+    "addr:postcode": "61-848",
+    "addr:street": "Długa",
+    "amenity": "pharmacy",
+    "contact:phone": "+48 618519543",
+    "dispensing": "yes",
+    "name": "Apteka Verbena",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1055752"
+  }
+},
+{
+  "type": "node",
+  "id": 4121985625,
+  "lat": 52.4127823,
+  "lon": 16.9039110,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00",
+    "phone": "+48 61 297 40 15",
+    "ref:csioz": "1182853",
+    "website": "https://domlekow.pl/nasze-apteki"
+  }
+},
+{
+  "type": "node",
+  "id": 4121985626,
+  "lat": 52.4124824,
+  "lon": 16.9052865,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-16:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 12 687 57 47",
+    "ref:csioz": "1186141",
+    "website": "https://www.ziko.pl/poznan-apteki-drogerie-ziko/dabrowskiego-47/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4126932045,
+  "lat": 52.3909235,
+  "lon": 16.8954764,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Dr. Max",
+    "brand:wikidata": "Q56317371",
+    "dispensing": "yes",
+    "email": "poznan.glogowska@aptekadyzurna.pl",
+    "healthcare": "pharmacy",
+    "name": "Dr. Max",
+    "opening_hours": "Mo-Fr 08:00-21:00; 08:00-14:00",
+    "phone": "+48 61 866 74 54;+48 61 866 74 55",
+    "ref:csioz": "1046026",
+    "website": "http://aptekadyzurna.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4126932046,
+  "lat": 52.3913177,
+  "lon": 16.8959195,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "107/109",
+    "addr:postcode": "60-266",
+    "addr:street": "Głogowska",
+    "alt_name": "Apteka Św. Łazarza",
+    "amenity": "pharmacy",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Dbam o Zdrowie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-15:00; Su off",
+    "phone": "+48 61 866 37 01",
+    "ref:csioz": "1047367",
+    "short_name": "DOZ"
+  }
+},
+{
+  "type": "node",
+  "id": 4137256631,
+  "lat": 52.3900310,
+  "lon": 16.8746059,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "65",
+    "addr:postcode": "60-136",
+    "addr:street": "Piotra Ściegiennego",
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ziko Apteka",
+    "ref:csioz": "1051408",
+    "short_name": "Ziko",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 4151834856,
+  "lat": 52.3945875,
+  "lon": 16.8995188,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-14:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 12 687 57 47",
+    "ref:csioz": "1187773",
+    "short_name": "Ziko",
+    "website": "https://www.ziko.pl/poznan-apteki-drogerie-ziko/glogowska-83/"
+  }
+},
+{
+  "type": "node",
+  "id": 4151834857,
+  "lat": 52.3949874,
+  "lon": 16.9216450,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "36",
+    "addr:postcode": "61-568",
+    "addr:street": "Wierzbięcice",
+    "amenity": "pharmacy",
+    "description": "Ziko Apteka zlokalizowana jest w Poznaniu przy ul. Wierzbięcice 36. Czynna jest przez 6 dni w tygodniu – od poniedziałku do soboty. W niedziele placówka jest nieczynna.",
+    "dispensing": "yes",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 12 687 57 47",
+    "ref:csioz": "1179562",
+    "website": "https://www.ziko.pl/poznan-apteki-drogerie-ziko/wierzbiecice-36/"
+  }
+},
+{
+  "type": "node",
+  "id": 4185825066,
+  "lat": 52.3530450,
+  "lon": 16.8401448,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+    "phone": "+48612238426",
+    "ref:csioz": "1201505",
+    "website": "https://domlekow.pl/nasze-apteki"
+  }
+},
+{
+  "type": "node",
+  "id": 4226687463,
+  "lat": 52.3918434,
+  "lon": 16.8769037,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Promienna",
+    "ref:csioz": "1045941"
+  }
+},
+{
+  "type": "node",
+  "id": 4332208849,
+  "lat": 52.3620737,
+  "lon": 16.9922191,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "114",
+    "addr:postcode": "61-144",
+    "addr:street": "Bolesława Krzywoustego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dbam o zdrowie",
+    "ref:csioz": "1202537",
+    "website": "https://www.doz.pl/apteki/a147466-DOZ_Apteka_Dbam_o_Zdrowie"
+  }
+},
+{
+  "type": "node",
+  "id": 4361191868,
+  "lat": 52.3635827,
+  "lon": 17.0081828,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Na Szczepankowie",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1046363",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4475644957,
+  "lat": 52.4332383,
+  "lon": 16.9338554,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Wielkopolska",
+    "opening_hours": "24/7",
+    "phone": "+48616577002",
+    "ref:csioz": "1192094",
+    "website": "https://wga.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4480682874,
+  "lat": 52.4311592,
+  "lon": 16.9341945,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "53b/1",
+    "addr:postcode": "61-664",
+    "addr:street": "Słowiańska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Prima",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-15:00; Su off",
+    "phone": "+48 61 824 96 66",
+    "ref:csioz": "1185322"
+  }
+},
+{
+  "type": "node",
+  "id": 4558907416,
+  "lat": 52.4055878,
+  "lon": 16.8902448,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Apteka Marcelińska",
+    "ref:csioz": "1046374"
+  }
+},
+{
+  "type": "node",
+  "id": 4613030522,
+  "lat": 52.4051666,
+  "lon": 16.8749894,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "83/85",
+    "addr:postcode": "60-266",
+    "addr:street": "Grochowska",
+    "amenity": "pharmacy",
+    "contact:phone": "+48 618670118",
+    "dispensing": "yes",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1201552"
+  }
+},
+{
+  "type": "node",
+  "id": 4613030525,
+  "lat": 52.4040430,
+  "lon": 16.8719228,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "a.marcelinska.poznan@magiczna.com",
+    "contact:phone": "+48 616282817",
+    "dispensing": "yes",
+    "name": "Apteka Całodobowa Dr. Max",
+    "opening_hours": "24/7",
+    "ref:csioz": "1188729"
+  }
+},
+{
+  "type": "node",
+  "id": 4639976067,
+  "lat": 52.4028618,
+  "lon": 16.8720250,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "35",
+    "addr:postcode": "60-345",
+    "addr:street": "Rycerska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1055999"
+  }
+},
+{
+  "type": "node",
+  "id": 4693272555,
+  "lat": 52.3935376,
+  "lon": 16.8943364,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Verus",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su off",
+    "ref:csioz": "1184772"
+  }
+},
+{
+  "type": "node",
+  "id": 4721299179,
+  "lat": 52.4000153,
+  "lon": 16.9061790,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "29",
+    "addr:postcode": "60-736",
+    "addr:street": "Głogowska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Verus",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 9:00-15:00",
+    "operator": "Verus",
+    "ref:csioz": "1046445",
+    "website": "https://aptekaverus.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4742715956,
+  "lat": 52.4065092,
+  "lon": 16.8701830,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "NFZ",
+    "dispensing": "yes",
+    "name": "Apteka Dla Ciebie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "phone": "+48 61 867 15 52",
+    "ref:csioz": "1214430",
+    "website": "http://www.aptekadc.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4748319321,
+  "lat": 52.3905140,
+  "lon": 16.8643616,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "DOZ",
+    "name:en": "DOZ",
+    "name:pl": "DOZ",
+    "official_name": "Doz Apteka. Dbam O Zdrowie Farmacjanna",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su 09:00-14:00",
+    "phone": "+4861 866 05 66",
+    "ref:csioz": "1202139",
+    "website": "https://www.doz.pl/apteki/a147041-DOZ_Apteka_Dbam_o_Zdrowie"
+  }
+},
+{
+  "type": "node",
+  "id": 4748437628,
+  "lat": 52.3959874,
+  "lon": 16.9567446,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Super-Pharm",
+    "brand:wikidata": "Q13220217",
+    "brand:wikipedia": "en:Super-Pharm",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Super-Pharm Apteka",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "ref:csioz": "1210559"
+  }
+},
+{
+  "type": "node",
+  "id": 4788947255,
+  "lat": 52.3813880,
+  "lon": 16.8310316,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "374",
+    "addr:postcode": "60-173",
+    "addr:street": "Grunwaldzka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Topolami",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00",
+    "ref:csioz": "1191797"
+  }
+},
+{
+  "type": "node",
+  "id": 4813806760,
+  "lat": 52.3884050,
+  "lon": 16.8847622,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Panaceum",
+    "ref:csioz": "1203381"
+  }
+},
+{
+  "type": "node",
+  "id": 4813806761,
+  "lat": 52.3879378,
+  "lon": 16.8903725,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su off",
+    "phone": "+48 61 864 32 62",
+    "ref:csioz": "1056048",
+    "short_name": "Ziko",
+    "website": "https://www.ziko.pl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4921707949,
+  "lat": 52.4470436,
+  "lon": 16.8909282,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Alga",
+    "ref:csioz": "1124158"
+  }
+},
+{
+  "type": "node",
+  "id": 4963220329,
+  "lat": 52.4410029,
+  "lon": 16.9063704,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "7/19",
+    "addr:postcode": "60-479",
+    "addr:street": "Juraszów",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Lutycka Apteka",
+    "opening_hours": "Mo-Fr 8:00-18:00; Sa 8:00-14:00",
+    "phone": "+48 61 821 22 33",
+    "ref:csioz": "1055854"
+  }
+},
+{
+  "type": "node",
+  "id": 5006734119,
+  "lat": 52.3895897,
+  "lon": 16.9454404,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "75",
+    "addr:postcode": "61-159",
+    "addr:street": "Osiedle Piastowskie",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Gemini",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-14:00",
+    "ref:csioz": "1047471"
+  }
+},
+{
+  "type": "node",
+  "id": 5031076619,
+  "lat": 52.4513781,
+  "lon": 16.8831651,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zakopiańska",
+    "ref:csioz": "1051034"
+  }
+},
+{
+  "type": "node",
+  "id": 5031076620,
+  "lat": 52.4490944,
+  "lon": 16.8852237,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "36,6 O C",
+    "ref:csioz": "1051003"
+  }
+},
+{
+  "type": "node",
+  "id": 5035234824,
+  "lat": 52.4543756,
+  "lon": 16.8831969,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "139",
+    "addr:postcode": "60-479",
+    "addr:street": "Strzeszyńska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Remedium",
+    "ref:csioz": "1047179"
+  }
+},
+{
+  "type": "node",
+  "id": 5042002478,
+  "lat": 52.4501269,
+  "lon": 16.9133663,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-07-23",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dom Leków",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su off",
+    "phone": "+48 61 448 55 34",
+    "ref:csioz": "1224625",
+    "website": "https://domlekow.pl/nasze-apteki",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5073797423,
+  "lat": 52.4776290,
+  "lon": 16.7824794,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "51",
+    "addr:postcode": "60-480",
+    "addr:street": "Chojnicka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pod Złotą Wagą",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1188366"
+  }
+},
+{
+  "type": "node",
+  "id": 5207098414,
+  "lat": 52.4554968,
+  "lon": 16.9480675,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacon",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-15:00; Su off",
+    "phone": "+48 61 671 21 22",
+    "ref:csioz": "1213976",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5377831598,
+  "lat": 52.4459830,
+  "lon": 16.8738961,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "43",
+    "addr:postcode": "60-461",
+    "addr:street": "Literacka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Literacka",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-14:00; Su 10:00-15:00",
+    "ref:csioz": "1195778"
+  }
+},
+{
+  "type": "node",
+  "id": 5485340007,
+  "lat": 52.4384198,
+  "lon": 16.9397460,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "105",
+    "addr:place": "Osiedle Wichrowe Wzgórze",
+    "addr:postcode": "61-699",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apteka Gemini",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-17:00; Su 09:00-15:00",
+    "operator": "Apteka Gemini",
+    "phone": "+48 61 826 14 98",
+    "ref:csioz": "1219540",
+    "source:addr": "sip.geopoz.pl",
+    "website": "https://www.aptekigemini.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5507968360,
+  "lat": 52.4674237,
+  "lon": 16.9383319,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Różany Potok",
+    "ref:csioz": "1230833"
+  }
+},
+{
+  "type": "node",
+  "id": 5562603117,
+  "lat": 52.3789936,
+  "lon": 16.9700002,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Dbam O Zdrowie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 8:00-15:00",
+    "operator": "DOZ Apteka Dbam o Zdrowie",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "ref:csioz": "1047263"
+  }
+},
+{
+  "type": "node",
+  "id": 6101226810,
+  "lat": 52.4279762,
+  "lon": 16.9252384,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "36A",
+    "addr:postcode": "61-664",
+    "addr:street": "Słowiańska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "slowianska@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "phone": "+48 61 224 58 90",
+    "ref:csioz": "1176988",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://aptekimedkon.pl/apteki/apteka-medkon-slowianska/"
+  }
+},
+{
+  "type": "node",
+  "id": 6240184952,
+  "lat": 52.4098570,
+  "lon": 16.9790350,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "62",
+    "addr:postcode": "61-036",
+    "addr:street": "Krańcowa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "krancowa@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 612 238 293",
+    "ref:csioz": "1227084",
+    "website": "https://aptekimedkon.pl/apteki/"
+  }
+},
+{
+  "type": "node",
+  "id": 6240265154,
+  "lat": 52.4088939,
+  "lon": 16.9379988,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "71",
+    "addr:postcode": "61-758",
+    "addr:street": "Garbary",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "garbary@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "phone": "+48 618 531 442",
+    "ref:csioz": "1186506",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://aptekimedkon.pl/apteki/"
+  }
+},
+{
+  "type": "node",
+  "id": 6240305058,
+  "lat": 52.4068889,
+  "lon": 16.9379825,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "52",
+    "addr:postcode": "61-869",
+    "addr:street": "Garbary",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apt.grobla@neostrada.pl",
+    "name": "Przy Grobli",
+    "phone": "+48 61 852 60 17",
+    "ref:csioz": "1047555"
+  }
+},
+{
+  "type": "node",
+  "id": 6273246329,
+  "lat": 52.4044374,
+  "lon": 16.9220954,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "14b",
+    "addr:postcode": "61-001",
+    "addr:street": "Powstańców Wielkopolskich",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "koniczynkapowst@apteka-koniczynka.pl",
+    "name": "Koniczynka",
+    "note:addr": "adres nie został nadany urzędowo",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 853 80 68",
+    "ref:csioz": "1048109",
+    "website": "https://apteka-koniczynka.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6273270259,
+  "lat": 52.4455645,
+  "lon": 16.8748064,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "koniczynkawerg@apteka-koniczynka.pl",
+    "healthcare": "pharmacy",
+    "name": "Koniczynka",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 842 37 77",
+    "ref:csioz": "1047002",
+    "website": "https://apteka-koniczynka.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6274193738,
+  "lat": 52.3965664,
+  "lon": 16.9636514,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "55",
+    "addr:postcode": "61-131",
+    "addr:street": "Katowicka",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-12-13",
+    "dispensing": "yes",
+    "name": "Agatom",
+    "official_name": "Agatom Ii",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-15:00; Su off",
+    "phone": "+48 61 887 42 70",
+    "ref:csioz": "1050162",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6274193739,
+  "lat": 52.3981177,
+  "lon": 16.9626604,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Agatom",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "phone": "+48 61 887 40 05",
+    "ref:csioz": "1051042",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6275307022,
+  "lat": 52.4384892,
+  "lon": 16.9327331,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "centrumlekow.wichry@onet.pl",
+    "name": "W Przychodni",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+    "phone": "+48 61 820 62 81",
+    "ref:csioz": "1046881"
+  }
+},
+{
+  "type": "node",
+  "id": 6276637269,
+  "lat": 52.3808101,
+  "lon": 16.9626651,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "zegrze@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 224 58 91",
+    "ref:csioz": "1228215",
+    "website": "https://aptekimedkon.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6276794463,
+  "lat": 52.4107288,
+  "lon": 16.8770907,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "jutrzenka@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su off",
+    "phone": "+48 61 671 32 37",
+    "ref:csioz": "1215472",
+    "website": "https://aptekimedkon.pl/apteki/"
+  }
+},
+{
+  "type": "node",
+  "id": 6276794465,
+  "lat": 52.3962874,
+  "lon": 16.9626736,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-08-19",
+    "dispensing": "yes",
+    "email": "milczanska@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 61 224 51 93",
+    "ref:csioz": "1186492",
+    "website": "https://aptekimedkon.pl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6276794472,
+  "lat": 52.4320081,
+  "lon": 16.9436061,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "47",
+    "addr:postcode": "61-664",
+    "addr:street": "Naramowicka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "naramowicka@medkon.pl",
+    "name": "Medkon",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "phone": "+48 61 224 51 94",
+    "ref:csioz": "1212027",
+    "website": "https://aptekimedkon.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6298976350,
+  "lat": 52.3416778,
+  "lon": 16.9183401,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apt.amforafigurka@wp.pl",
+    "name": "Amfora",
+    "official_name": "Amfora przy Figurce",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off",
+    "phone": "+48 61 435 28 74",
+    "ref:csioz": "1212302",
+    "website": "http://aptekaamfora.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6332929138,
+  "lat": 52.4104967,
+  "lon": 16.9860044,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apteka.poznan@gdaptek.pl",
+    "name": "Apteka Iluminata",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 8:00-14:00; Su off",
+    "phone": "+48 516 138 495",
+    "ref:csioz": "1046220",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6333104525,
+  "lat": 52.3697231,
+  "lon": 16.9326570,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "aptekaprzyjazna5@gmail.com",
+    "name": "Przyjazna",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-16:00; Su off",
+    "ref:csioz": "1191332",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6358778542,
+  "lat": 52.4139081,
+  "lon": 16.9008198,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Vivre",
+    "official_name": "Vivre Moja Apteka",
+    "ref:csioz": "1203370"
+  }
+},
+{
+  "type": "node",
+  "id": 6358818970,
+  "lat": 52.4138187,
+  "lon": 16.8998325,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "79",
+    "addr:postcode": "61-701",
+    "addr:street": "Jana Henryka Dąbrowskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Akademicka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "ref:csioz": "1055130"
+  }
+},
+{
+  "type": "node",
+  "id": 6358821224,
+  "lat": 52.4131155,
+  "lon": 16.9012430,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Szarotka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "ref:csioz": "1046437"
+  }
+},
+{
+  "type": "node",
+  "id": 6393844570,
+  "lat": 52.4070707,
+  "lon": 16.9226400,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "58/64",
+    "addr:postcode": "61-807",
+    "addr:street": "Święty Marcin",
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "name": "Ziko Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-14:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 12 687 57 47",
+    "ref:csioz": "1124343",
+    "short_name": "Ziko",
+    "website": "https://www.ziko.pl/poznan-apteki-drogerie-ziko/sw-marcin-58-64/"
+  }
+},
+{
+  "type": "node",
+  "id": 6510751403,
+  "lat": 52.4121737,
+  "lon": 16.9035814,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3",
+    "addr:postcode": "60-501",
+    "addr:street": "Józefa Kraszewskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Euro Apteka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+    "ref:csioz": "1050477",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6756846761,
+  "lat": 52.4483747,
+  "lon": 16.9227305,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Adamus",
+    "ref:csioz": "1189595"
+  }
+},
+{
+  "type": "node",
+  "id": 6933322617,
+  "lat": 52.4006986,
+  "lon": 16.9289463,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "32/2",
+    "addr:postcode": "61-893",
+    "addr:street": "Krakowska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Sasanką",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "ref:csioz": "1190681"
+  }
+},
+{
+  "type": "node",
+  "id": 6935391941,
+  "lat": 52.3950934,
+  "lon": 16.9019634,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "7",
+    "addr:postcode": "60-731",
+    "addr:street": "Rynek Łazarski",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Rosa",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-14:00",
+    "ref:csioz": "1046951",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6942904041,
+  "lat": 52.4004453,
+  "lon": 16.8926257,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3B",
+    "addr:postcode": "60-792",
+    "addr:street": "Wojskowa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Betula",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00",
+    "ref:csioz": "1123477",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 6956058252,
+  "lat": 52.3969066,
+  "lon": 16.9245821,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Klonami",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-15:00; Su off",
+    "ref:csioz": "1046598",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7112423641,
+  "lat": 52.3866170,
+  "lon": 16.9755117,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Centrum Leków",
+    "ref:csioz": "1219995"
+  }
+},
+{
+  "type": "node",
+  "id": 7172863913,
+  "lat": 52.3954289,
+  "lon": 16.8634152,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "DOZ Apteka dbam o zdrowie",
+    "official_name": "Doz Apteka Dbam O Zdrowie.Kaja",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; PH,Su off",
+    "ref:csioz": "1045208"
+  }
+},
+{
+  "type": "node",
+  "id": 7231366115,
+  "lat": 52.3973181,
+  "lon": 16.8714260,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "60-281",
+    "addr:street": "Konfederacka",
+    "amenity": "pharmacy",
+    "brand": "Ziko Apteka",
+    "brand:wikidata": "Q63432892",
+    "dispensing": "yes",
+    "name": "Ziko Apteka",
+    "ref:csioz": "1218010",
+    "short_name": "Ziko"
+  }
+},
+{
+  "type": "node",
+  "id": 7985518030,
+  "lat": 52.3915515,
+  "lon": 16.9024710,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "34/36",
+    "addr:postcode": "60-728",
+    "addr:street": "Józefa Łukaszewicza",
+    "amenity": "pharmacy",
+    "brand": "Dr. Max",
+    "brand:wikidata": "Q56317371",
+    "brand:wikipedia": "fr:Dr.Max",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Dr. Max",
+    "opening_hours": "Mo-Fr 8:00-19:00",
+    "ref:csioz": "1044780"
+  }
+},
+{
+  "type": "node",
+  "id": 8458836168,
+  "lat": 52.4093113,
+  "lon": 16.8924431,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1",
+    "addr:postcode": "60-554",
+    "addr:street": "Jana Gorczyczewskiego",
+    "alt_name": "Dbam O Zdrowie Antidotum",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apt88520@dbamozdrowie.pl",
+    "name": "Apteka Dbam O Zdrowie",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "phone": "+48 736 697 633",
+    "ref:csioz": "1047140",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8636400991,
+  "lat": 52.3858994,
+  "lon": 16.8842764,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Jemiołą",
+    "opening_hours": "Mo-Fr 8:00-19:00; Sa 8:00-14:00",
+    "ref:csioz": "1191866"
+  }
+},
+{
+  "type": "node",
+  "id": 8865602652,
+  "lat": 52.3886379,
+  "lon": 16.8775327,
+  "tags": {
+    "addr:city": "Poznań",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Zdrowie",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 8:00-14:00",
+    "ref:csioz": "1047351"
+  }
+},
+{
+  "type": "node",
+  "id": 9427009490,
+  "lat": 52.4245514,
+  "lon": 16.9088449,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "6",
+    "addr:postcode": "60-637",
+    "addr:street": "Wojska Polskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Ab - Lek",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 8:00-16:00",
+    "ref:csioz": "1050952"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174541,
+  "lat": 52.3884154,
+  "lon": 16.9177602,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "151",
+    "addr:postcode": "61-525",
+    "addr:street": "28 Czerwca 1956 roku",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Doz Apteka Dbam O Zdrowie",
+    "ref:csioz": "1045545"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174542,
+  "lat": 52.3838815,
+  "lon": 16.9519812,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "31",
+    "addr:place": "Osiedle Bohaterów II Wojny Światowej",
+    "addr:postcode": "61-386",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka 112",
+    "ref:csioz": "1045895"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174543,
+  "lat": 52.4292477,
+  "lon": 16.9508515,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Pod Złotym Lwem",
+    "ref:csioz": "1047507"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174544,
+  "lat": 52.3887030,
+  "lon": 16.9508507,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Galenica",
+    "ref:csioz": "1047483"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174545,
+  "lat": 52.4486245,
+  "lon": 16.9428388,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Centrum Leków",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1044751"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174547,
+  "lat": 52.3687662,
+  "lon": 17.0017597,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "57",
+    "addr:postcode": "61-311",
+    "addr:street": "Szczepankowo",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Melissa",
+    "ref:csioz": "1055397"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174549,
+  "lat": 52.4122824,
+  "lon": 16.9833287,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka św. Kamila",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su 09:30-13:30",
+    "phone": "+48 61 879 26 99",
+    "ref:csioz": "1051016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174550,
+  "lat": 52.3902421,
+  "lon": 16.9974592,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3",
+    "addr:postcode": "61-285",
+    "addr:street": "Szwajcarska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Nasza",
+    "ref:csioz": "1045993"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174551,
+  "lat": 52.3897200,
+  "lon": 17.0024870,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "8c",
+    "addr:postcode": "61-060",
+    "addr:street": "Osiedle Przemysława",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dobrofarm",
+    "ref:csioz": "1050885"
+  }
+},
+{
+  "type": "node",
+  "id": 9579174552,
+  "lat": 52.3880194,
+  "lon": 16.9841388,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Św. Kosmy I Damiana",
+    "ref:csioz": "1045499"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345146,
+  "lat": 52.3667000,
+  "lon": 16.9306424,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Różana",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00",
+    "ref:csioz": "1047077",
+    "source": "geoportal.gov.pl:ortofoto",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345147,
+  "lat": 52.3717956,
+  "lon": 16.8749790,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "ref:csioz": "1048069"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345148,
+  "lat": 52.3724658,
+  "lon": 16.9077669,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "7",
+    "addr:postcode": "61-465",
+    "addr:street": "Świętego Szczepana",
+    "amenity": "pharmacy",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dbam o Zdrowie",
+    "ref:csioz": "1044714",
+    "short_name": "DOZ"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345150,
+  "lat": 52.4012868,
+  "lon": 16.9638174,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Medicover",
+    "ref:csioz": "1206392"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345151,
+  "lat": 52.3919131,
+  "lon": 16.9433857,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Wielkopolska",
+    "ref:csioz": "1186522"
+  }
+},
+{
+  "type": "node",
+  "id": 9579345152,
+  "lat": 52.4374219,
+  "lon": 16.9543831,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Pod Jemiołą",
+    "ref:csioz": "1051167"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327439,
+  "lat": 52.3889527,
+  "lon": 16.9160724,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "28",
+    "addr:postcode": "61-522",
+    "addr:street": "Antoniego Kosińskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Św. Jadwigi",
+    "ref:csioz": "1051283"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327440,
+  "lat": 52.4565601,
+  "lon": 16.9056081,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "U Złotego Źródła",
+    "ref:csioz": "1051247"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327441,
+  "lat": 52.3918063,
+  "lon": 16.9221252,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "7",
+    "addr:postcode": "61-546",
+    "addr:street": "Świętego Jerzego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Św. Jerzego",
+    "ref:csioz": "1051091"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327443,
+  "lat": 52.4533390,
+  "lon": 16.8507150,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1A",
+    "addr:postcode": "60-468",
+    "addr:street": "Rzeszowska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Literacka",
+    "note:addr": "adres nie został nadany urzędowo",
+    "ref:csioz": "1050706"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327445,
+  "lat": 52.3936530,
+  "lon": 16.9220433,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "107",
+    "addr:postcode": "61-567",
+    "addr:street": "Górna Wilda",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Koroną",
+    "ref:csioz": "1047670"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327446,
+  "lat": 52.3896605,
+  "lon": 16.9184881,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "138/140",
+    "addr:postcode": "61-525",
+    "addr:street": "28 Czerwca 1956 roku",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Doz Apteka Dbam O Zdrowie",
+    "ref:csioz": "1047662",
+    "source:addr": "www.poznan.pl/api"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327447,
+  "lat": 52.4339470,
+  "lon": 16.8268836,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Farmasol",
+    "ref:csioz": "1047452"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327448,
+  "lat": 52.4117020,
+  "lon": 16.8935860,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "44/3A",
+    "addr:postcode": "60-522",
+    "addr:street": "Augustyna Szamarzewskiego",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Prima",
+    "note:addr": "adres nie został nadany urzędowo",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+    "ref:csioz": "1047258"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327450,
+  "lat": 52.4484814,
+  "lon": 16.8936709,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Z Sercem",
+    "opening_hours": "Mo-Fr 7:00-21:00; Sa 8:00-15:00",
+    "ref:csioz": "1046728"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327452,
+  "lat": 52.3843147,
+  "lon": 16.8445727,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka111",
+    "ref:csioz": "1045461"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327453,
+  "lat": 52.3976277,
+  "lon": 16.9028554,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "53",
+    "addr:postcode": "60-738",
+    "addr:street": "Głogowska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Centrum",
+    "ref:csioz": "1045436"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327454,
+  "lat": 52.4056713,
+  "lon": 16.8996350,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1",
+    "addr:postcode": "60-787",
+    "addr:street": "Arnolda Szylinga",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pamiątkowa",
+    "ref:csioz": "1045379"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327455,
+  "lat": 52.4042353,
+  "lon": 16.8948255,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Botaniqa",
+    "ref:csioz": "1045365"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327457,
+  "lat": 52.3697717,
+  "lon": 16.9046913,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Centrum Leków",
+    "ref:csioz": "1217244"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327458,
+  "lat": 52.3707668,
+  "lon": 16.9008940,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Ziko Apteka",
+    "ref:csioz": "1213103"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327459,
+  "lat": 52.3655316,
+  "lon": 16.9052788,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3",
+    "addr:postcode": "61-446",
+    "addr:street": "Limbowa",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Verus",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 8:00-15:00",
+    "ref:csioz": "1212315"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327460,
+  "lat": 52.3690883,
+  "lon": 16.8992954,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Avena",
+    "ref:csioz": "1200958"
+  }
+},
+{
+  "type": "node",
+  "id": 9581327461,
+  "lat": 52.3701519,
+  "lon": 16.8672017,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Mercurius",
+    "ref:csioz": "1051302"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606579,
+  "lat": 52.3871148,
+  "lon": 16.8616339,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Prima",
+    "ref:csioz": "1045297"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606580,
+  "lat": 52.4094050,
+  "lon": 16.8720289,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "22/24",
+    "addr:postcode": "60-391",
+    "addr:street": "Swoboda",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Słoneczna II",
+    "ref:csioz": "1045025"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606582,
+  "lat": 52.3847990,
+  "lon": 16.8651253,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Żeń-Szeń",
+    "ref:csioz": "1044723"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606583,
+  "lat": 52.4406517,
+  "lon": 16.9193185,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dr Zdrowie",
+    "ref:csioz": "1211608"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606584,
+  "lat": 52.4113151,
+  "lon": 16.8615498,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Cosmedica",
+    "ref:csioz": "1124531"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606585,
+  "lat": 52.4259457,
+  "lon": 16.9118695,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "24",
+    "addr:postcode": "60-644",
+    "addr:street": "Sokoła",
+    "amenity": "pharmacy",
+    "branch": "Kwiaty Polne",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dbam o Zdrowie",
+    "ref:csioz": "1123466",
+    "short_name": "DOZ"
+  }
+},
+{
+  "type": "node",
+  "id": 9581606586,
+  "lat": 52.4132845,
+  "lon": 16.8953693,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2023-10-11",
+    "dispensing": "yes",
+    "name": "Apteka Zakątek",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00",
+    "ref:csioz": "1055822"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848634,
+  "lat": 52.4160346,
+  "lon": 16.8874931,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Dbam O Zdrowie",
+    "ref:csioz": "1055783"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848635,
+  "lat": 52.4304442,
+  "lon": 16.9045328,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Wrzosowa",
+    "ref:csioz": "1051729"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848636,
+  "lat": 52.4335979,
+  "lon": 16.9105949,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Wrzosowa",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 9:00-14:00",
+    "ref:csioz": "1051710"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848638,
+  "lat": 52.3867137,
+  "lon": 16.8644705,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "U Piotra I Pawła",
+    "ref:csioz": "1051613"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848639,
+  "lat": 52.4507441,
+  "lon": 16.9074350,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Medicus",
+    "ref:csioz": "1050551"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848640,
+  "lat": 52.3904285,
+  "lon": 16.8644205,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Słońcem",
+    "ref:csioz": "1049994"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848642,
+  "lat": 52.4234709,
+  "lon": 16.9137115,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Słowiańska",
+    "ref:csioz": "1047821"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848643,
+  "lat": 52.3837447,
+  "lon": 16.9183317,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "104",
+    "addr:postcode": "61-493",
+    "addr:street": "Hetmańska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Hibiscus",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-15:00; Su off",
+    "phone": "+48 61 833 17 44",
+    "ref:csioz": "1047697"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848644,
+  "lat": 52.3874896,
+  "lon": 16.8620737,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zdrowie",
+    "ref:csioz": "1047405"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848645,
+  "lat": 52.4588861,
+  "lon": 16.8799593,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Doz Apteka Dbam O Zdrowie A I B",
+    "ref:csioz": "1047225"
+  }
+},
+{
+  "type": "node",
+  "id": 9581848646,
+  "lat": 52.4297030,
+  "lon": 16.8485541,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1/5",
+    "addr:postcode": "60-413",
+    "addr:street": "Tatrzańska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Alga",
+    "opening_hours": "Mo-Sa 9:00-21:00; Su 10:00-18:00",
+    "ref:csioz": "1047201",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827085,
+  "lat": 52.4140262,
+  "lon": 16.8970728,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Zdrowoteka",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+    "ref:csioz": "1214254"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827086,
+  "lat": 52.3865824,
+  "lon": 16.9156567,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "168",
+    "addr:postcode": "61-507",
+    "addr:street": "28 Czerwca 1956 roku",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-11-21",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apteka Pamiątkowa",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-15:30; Su closed",
+    "ref:csioz": "1212954",
+    "source": "survey",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827087,
+  "lat": 52.3915550,
+  "lon": 16.9201190,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "122/122a",
+    "addr:postcode": "61-526",
+    "addr:street": "28 Czerwca 1956 roku",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apteka Pamiątkowa",
+    "ref:csioz": "1212940",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827088,
+  "lat": 52.4072791,
+  "lon": 16.8787575,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "10A",
+    "addr:postcode": "60-369",
+    "addr:street": "Brzask",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Passiflora",
+    "ref:csioz": "1211179"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827091,
+  "lat": 52.4000449,
+  "lon": 16.9289211,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "58A",
+    "addr:postcode": "61-873",
+    "addr:street": "Królowej Jadwigi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Wasza",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-15:00",
+    "ref:csioz": "1206300"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827093,
+  "lat": 52.3937932,
+  "lon": 16.9017386,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Zdrowa Wielkopolska",
+    "ref:csioz": "1186533"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827095,
+  "lat": 52.3814164,
+  "lon": 16.8961512,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Dbam o Zdrowie",
+    "brand:wikidata": "Q62563833",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dbam o Zdrowie",
+    "ref:csioz": "1175828",
+    "short_name": "DOZ"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827097,
+  "lat": 52.3862039,
+  "lon": 16.9128011,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Apteka Green Point",
+    "ref:csioz": "1124092"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827099,
+  "lat": 52.4019006,
+  "lon": 16.9139369,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "61-586",
+    "addr:street": "Stanisława Matyi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "fixme": "Prawdopodobnie zajmuje jedno z wcześniej zmapowanych pomieszczeń, ale nie mam pojęcia, które. Wg CSIOZ (rejestru aptek Ministerstwa Zdrowia) na poznańskim dworcu działają dwie apteki.",
+    "name": "Super-Pharm Apteka",
+    "ref:csioz": "1123617"
+  }
+},
+{
+  "type": "node",
+  "id": 9582827100,
+  "lat": 52.4002154,
+  "lon": 16.8998961,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pod Dębem",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00",
+    "ref:csioz": "1055912"
+  }
+},
+{
+  "type": "node",
+  "id": 9582922189,
+  "lat": 52.4348959,
+  "lon": 16.8095407,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Krzyżowniki",
+    "ref:csioz": "1050905"
+  }
+},
+{
+  "type": "node",
+  "id": 9582922190,
+  "lat": 52.4019953,
+  "lon": 16.9139512,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "fixme": "Prawdopodobnie zajmuje jedno z wcześniej zmapowanych pomieszczeń, ale nie mam pojęcia, które. Wg CSIOZ (rejestru aptek Ministerstwa Zdrowia) na poznańskim dworcu działają dwie apteki.",
+    "name": "Doz Apteka Dbam O Zdrowie",
+    "ref:csioz": "1226472"
+  }
+},
+{
+  "type": "node",
+  "id": 9582922192,
+  "lat": 52.4477435,
+  "lon": 16.9080878,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "260",
+    "addr:postcode": "60-693",
+    "addr:street": "Obornicka",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Przyjazna",
+    "ref:csioz": "1216651",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 10677353020,
+  "lat": 52.4044888,
+  "lon": 16.8598217,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "102/200-202",
+    "addr:postcode": "60-324",
+    "addr:street": "Marcelińska",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "apteka medkon",
+    "old_name": "Apteka Marcelin",
+    "ref:csioz": "1201539"
+  }
+},
+{
+  "type": "node",
+  "id": 11015045577,
+  "lat": 52.4099501,
+  "lon": 16.9116579,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "NFZ",
+    "level": "0",
+    "name": "Apteka Puls",
+    "note": "pozycja losowa",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+  }
+}
+
+  ]
+}

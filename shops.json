@@ -1,0 +1,1583 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-05-11T13:23:35Z",
+    "timestamp_areas_base": "2024-05-11T09:04:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 291093438,
+  "lat": 52.4299950,
+  "lon": 16.8490462,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "1/5",
+    "addr:postcode": "60-413",
+    "addr:street": "Tatrzańska",
+    "brand": "Eurospar",
+    "brand:wikidata": "Q12309283",
+    "brand:wikipedia": "da:Eurospar",
+    "name": "Eurospar",
+    "old_name": "Piotr i Paweł",
+    "opening_hours": "Mo-Fr 07:30-21:30; Sa 07:30-21:30",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 300886895,
+  "lat": 52.3642179,
+  "lon": 16.8831090,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 316395373,
+  "lat": 52.3814700,
+  "lon": 16.9467133,
+  "tags": {
+    "alt_name": "Piotr I Paweł Zamenhofa",
+    "brand": "Carrefour Market",
+    "brand:wikidata": "Q2689639",
+    "brand:wikipedia": "en:Carrefour Market",
+    "name": "Carrefour Market",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353290497,
+  "lat": 52.3881957,
+  "lon": 16.8910173,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "136",
+    "addr:postcode": "60-243",
+    "addr:street": "Głogowska",
+    "brand": "E. Leclerc",
+    "brand:wikidata": "Q1273376",
+    "brand:wikipedia": "en:E.Leclerc",
+    "name": "E. Leclerc",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 448121919,
+  "lat": 52.3775856,
+  "lon": 16.9602168,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "5",
+    "addr:street": "Osiedle Orła Białego",
+    "brand": "Biedronka",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 538776249,
+  "lat": 52.4493489,
+  "lon": 16.9413031,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "102",
+    "addr:place": "Osiedle Władysława Łokietka",
+    "addr:postcode": "61-616",
+    "brand": "Netto",
+    "brand:wikidata": "Q552652",
+    "brand:wikipedia": "da:Netto (supermarkedskæde)",
+    "contact:website": "https://netto.pl/sklepy/poznan/os-wladyslawa-lokietka-102/2c93d5690ecd4dd1b948b3d957e97a56/",
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-20:00",
+    "operator": "Netto Sp. z o.o.",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 538789492,
+  "lat": 52.4384934,
+  "lon": 16.9415495,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "104",
+    "addr:place": "Osiedle Kosmonautów",
+    "addr:postcode": "61-642",
+    "brand": "Carrefour Market",
+    "brand:wikidata": "Q2689639",
+    "brand:wikipedia": "fr:Carrefour Market",
+    "name": "Carrefour Market",
+    "opening_hours": "Mo-Sa 06:30-21:00; Su 09:00-18:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 540358859,
+  "lat": 52.4350044,
+  "lon": 16.9279550,
+  "tags": {
+    "brand": "Kaufland",
+    "brand:wikidata": "Q685967",
+    "brand:wikipedia": "en:Kaufland",
+    "name": "Kaufland",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 552815567,
+  "lat": 52.4062395,
+  "lon": 16.9269264,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "28",
+    "addr:postcode": "61-805",
+    "addr:street": "Święty Marcin",
+    "brand": "Lewiatan",
+    "brand:wikidata": "Q11755396",
+    "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+    "name": "Lewiatan",
+    "name:fa": "لویاتان",
+    "opening_hours": "24/7",
+    "operator": "Lewiatan",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 583405113,
+  "lat": 52.4121369,
+  "lon": 16.9069734,
+  "tags": {
+    "name": "Jeżyk",
+    "opening_hours": "Mo-Sa 06:00-22:15; Su 10:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 640100636,
+  "lat": 52.4119031,
+  "lon": 16.9034263,
+  "tags": {
+    "brand": "Chata Polska",
+    "brand:wikidata": "Q61994406",
+    "name": "Chata Polska",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-16:00",
+    "operator": "Chata Polska",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 875374768,
+  "lat": 52.4776299,
+  "lon": 16.7821226,
+  "tags": {
+    "brand": "Lewiatan",
+    "brand:wikidata": "Q11755396",
+    "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+    "name": "Lewiatan",
+    "name:pl": "Lewiatan",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 09:00-17:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 880392025,
+  "lat": 52.3796353,
+  "lon": 16.9540882,
+  "tags": {
+    "brand": "Delikatesy Centrum",
+    "brand:wikidata": "Q11693824",
+    "brand:wikipedia": "pl:Delikatesy Centrum",
+    "name": "Delikatesy Centrum",
+    "opening_hours": "Mo-Sa 06:00-21:00; Su 09:00-19:00 \"tylko niedziele handlowe\"",
+    "shop": "supermarket",
+    "website": "https://www.delikatesy.pl/sklepy/7881"
+  }
+},
+{
+  "type": "node",
+  "id": 961480852,
+  "lat": 52.4292715,
+  "lon": 16.9256587,
+  "tags": {
+    "name": "Chata Polska",
+    "opening_hours": "Mo-Sa 6:00-22:00; Su 8:00:22:00",
+    "operator": "Chata Polska",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1204298940,
+  "lat": 52.3952668,
+  "lon": 16.9760420,
+  "tags": {
+    "name": "Stokrotka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1212581811,
+  "lat": 52.3824749,
+  "lon": 16.8315443,
+  "tags": {
+    "name": "Społem",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1323353456,
+  "lat": 52.3948358,
+  "lon": 16.9450547,
+  "tags": {
+    "brand": "Biedronka",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 1402584538,
+  "lat": 52.3673704,
+  "lon": 16.9044894,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 1430310431,
+  "lat": 52.4109304,
+  "lon": 16.9308531,
+  "tags": {
+    "brand": "Społem",
+    "brand:wikidata": "Q11826043",
+    "brand:wikipedia": "pl:Powszechna Spółdzielnia Spożywców „Społem”",
+    "name": "Społem",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1572712602,
+  "lat": 52.4523704,
+  "lon": 16.9147068,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "110",
+    "addr:place": "Osiedle Bolesława Chrobrego",
+    "addr:postcode": "60-681",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://www.biedronka.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1699434169,
+  "lat": 52.3868173,
+  "lon": 16.9131196,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "91",
+    "addr:postcode": "61-514",
+    "addr:street": "Hetmańska",
+    "name": "Spar",
+    "not:brand:wikidata": "Q610492",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Spar",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1700918707,
+  "lat": 52.3696497,
+  "lon": 16.9474850,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:postcode": "61-249",
+    "addr:street": "Falista",
+    "name": "Lewiatan",
+    "operator": "Lewiatan",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1704313343,
+  "lat": 52.3798684,
+  "lon": 16.9509877,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 22 205 33 00",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 1722390452,
+  "lat": 52.4381379,
+  "lon": 16.9222733,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "110",
+    "addr:place": "Osiedle Zwycięstwa",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1722390460,
+  "lat": 52.4399613,
+  "lon": 16.9188751,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "61-693",
+    "addr:street": "Kaspra Drużbickiego",
+    "brand": "Eurospar",
+    "brand:wikidata": "Q12309283",
+    "brand:wikipedia": "da:Eurospar",
+    "name": "Eurospar",
+    "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864886714,
+  "lat": 52.3627125,
+  "lon": 16.9070432,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "105",
+    "addr:postcode": "61-450",
+    "addr:street": "Osiedle Dębina",
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
+    "operator": "Stokrotka Sp. z o.o.",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2012396733,
+  "lat": 52.3866786,
+  "lon": 16.9751765,
+  "tags": {
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "brand:wikipedia": "en:Stokrotka",
+    "name": "Stokrotka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2012396754,
+  "lat": 52.3862724,
+  "lon": 16.9769094,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 22 205 33 00",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 2109125199,
+  "lat": 52.4108457,
+  "lon": 16.8602959,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "156",
+    "addr:postcode": "60-198",
+    "addr:street": "Bukowska",
+    "brand": "Auchan",
+    "brand:wikidata": "Q758603",
+    "brand:wikipedia": "en:Auchan",
+    "name": "Auchan",
+    "opening_hours": "Mo-Sa 07:30-22:00; Su 09:00-21:00",
+    "operator": "Auchan Polska Sp. z o.o.",
+    "self_checkout": "yes",
+    "self_service": "yes",
+    "shop": "supermarket",
+    "website": "https://www.auchan.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2283519819,
+  "lat": 52.3904259,
+  "lon": 16.9028655,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:street": "Józefa Łukaszewicza",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 07:00-22:00, Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:american_express": "yes",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:telephone_cards": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 2419145163,
+  "lat": 52.3904123,
+  "lon": 16.9460456,
+  "tags": {
+    "name": "Społem",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2419223062,
+  "lat": 52.3964968,
+  "lon": 16.9449578,
+  "tags": {
+    "addr:postcode": "61-688",
+    "email": "poznan@best-market.pl",
+    "name": "Best Market",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+48 797 253 321",
+    "shop": "supermarket",
+    "website": "https://best-market.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2451859668,
+  "lat": 52.3975877,
+  "lon": 16.9248166,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "74",
+    "addr:postcode": "61-563",
+    "addr:street": "Górna Wilda",
+    "contact:website": "http://www.netto.pl",
+    "fixme": "check if object exists",
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 06:00-22:00;Su 08:00-20:00",
+    "operator": "Netto Sp. z o.o.",
+    "shop": "supermarket",
+    "website": "http://www.netto.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 2463699587,
+  "lat": 52.4529011,
+  "lon": 16.9231569,
+  "tags": {
+    "brand": "Społem",
+    "brand:wikidata": "Q11826043",
+    "brand:wikipedia": "pl:Powszechna Spółdzielnia Spożywców „Społem”",
+    "name": "Społem",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2641875444,
+  "lat": 52.4090418,
+  "lon": 16.9847992,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "13/15",
+    "addr:postcode": "61-048",
+    "addr:street": "Nowogrodzka",
+    "brand": "Carrefour Market",
+    "brand:wikidata": "Q2689639",
+    "brand:wikipedia": "fr:Carrefour Market",
+    "fax": "+48 61 872 80 54",
+    "name": "Carrefour Market",
+    "note:opening_hours": "godziny otwarcia w niedziele dotyczą tylko tzw. niedziel handlowych",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-16:00",
+    "phone": "+48 61 872 80 54",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://sklep.carrefour.pl/913568-carrefour-market-poznan-nowogrodzka"
+  }
+},
+{
+  "type": "node",
+  "id": 3359176182,
+  "lat": 52.4468161,
+  "lon": 16.8905886,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "12a",
+    "addr:postcode": "60-476",
+    "addr:street": "Druskienicka",
+    "brand": "Spar",
+    "brand:wikidata": "Q610492",
+    "brand:wikipedia": "en:Spar (retailer)",
+    "name": "Spar",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-21:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 3712750115,
+  "lat": 52.4588427,
+  "lon": 16.9128562,
+  "tags": {
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Fr 06:30-22:00; Sa 06:30-22:00; Su 08:00-21:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 3723948186,
+  "lat": 52.4635076,
+  "lon": 16.9067880,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "103",
+    "addr:place": "Osiedle Jana III Sobieskiego",
+    "addr:postcode": "60-688",
+    "addr:street": "Osiedle Jana III Sobieskiego",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3746464497,
+  "lat": 52.4122036,
+  "lon": 16.9086176,
+  "tags": {
+    "brand": "Biedronka",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-21:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562003,
+  "lat": 52.4049929,
+  "lon": 16.9324593,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "61-831",
+    "addr:street": "Plac Wiosny Ludów",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562757,
+  "lat": 52.4063689,
+  "lon": 16.9280062,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "24",
+    "addr:postcode": "61-805",
+    "addr:street": "Święty Marcin",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "level": "-1",
+    "name": "Lidl",
+    "name:fa": "لیدل",
+    "opening_hours": "Mo-Sa 07:00-21:30; Su 09:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562923,
+  "lat": 52.4140335,
+  "lon": 16.9129098,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "62",
+    "addr:postcode": "60-853",
+    "addr:street": "Poznańska",
+    "brand": "Netto",
+    "brand:wikidata": "Q552652",
+    "contact:website": "http://www.netto.pl",
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "http://www.netto.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3803457687,
+  "lat": 52.3902827,
+  "lon": 16.8947986,
+  "tags": {
+    "branch": "market 24h",
+    "brand": "Lewiatan",
+    "brand:wikidata": "Q11755396",
+    "name": "Lewiatan",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3838164783,
+  "lat": 52.4078812,
+  "lon": 16.9018974,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3899638754,
+  "lat": 52.4297776,
+  "lon": 16.9414726,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Chata Polska",
+    "brand:wikidata": "Q61994406",
+    "name": "Chata Polska",
+    "opening_hours": "Mo-Sa 06:00-21:30; Su 10:00-18:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 3979479559,
+  "lat": 52.3671087,
+  "lon": 16.8406715,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4244285070,
+  "lat": 52.4005781,
+  "lon": 16.8926453,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "3",
+    "addr:street": "Wojskowa",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Th 07:00-21:00, Su[-1] 09:00-20:00; Fr-Sa 07:00-22:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4450581402,
+  "lat": 52.4387043,
+  "lon": 16.9398642,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "105",
+    "addr:place": "Osiedle Wichrowe Wzgórze",
+    "addr:postcode": "61-699",
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-20:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4522512044,
+  "lat": 52.4151615,
+  "lon": 16.9345328,
+  "tags": {
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "name": "Lidl",
+    "name:fa": "لیدل",
+    "opening_hours": "Mo-Sa 06:00-22:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4560911747,
+  "lat": 52.3974866,
+  "lon": 16.9561869,
+  "tags": {
+    "brand": "Carrefour",
+    "brand:wikidata": "Q217599",
+    "brand:wikipedia": "fr:Carrefour (enseigne)",
+    "name": "Carrefour",
+    "note": "Położenie orientacyjne!",
+    "opening_hours": "Mo-Sa 08:30-23:00; Su 09:00-22:00",
+    "shop": "supermarket",
+    "source": "survey",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597759222,
+  "lat": 52.4142560,
+  "lon": 16.8978429,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "81/85",
+    "addr:street": "Jana Henryka Dąbrowskiego",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "diet:gluten_free": "limited",
+    "diet:lactose_free": "limited",
+    "diet:sugar_free": "limited",
+    "email": "bok@biedronka.eu",
+    "internet_access": "no",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "organic": "no",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 22 205 33 00",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4618237074,
+  "lat": 52.4385100,
+  "lon": 16.9228913,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "109",
+    "addr:place": "Osiedle Zwycięstwa",
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4759834860,
+  "lat": 52.3883622,
+  "lon": 16.9499199,
+  "tags": {
+    "email": "m16@maromarkety.pl",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Fr 06:00-22:00;Sa 07:00-21:00;Su 09:00-21:00",
+    "operator": "Stokrotka Sp. z o.o.",
+    "phone": "+48505002687",
+    "shop": "supermarket",
+    "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+  }
+},
+{
+  "type": "node",
+  "id": 4914677698,
+  "lat": 52.3936662,
+  "lon": 16.8973326,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "88a/1",
+    "addr:street": "Głogowska",
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 06:00-22:00",
+    "operator": "NETTO Polska",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:telephone_cards": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4948484728,
+  "lat": 52.4152077,
+  "lon": 16.9061213,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 06:00-22:30",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 5014481406,
+  "lat": 52.3788698,
+  "lon": 16.9175427,
+  "tags": {
+    "fixme": "check if object exists",
+    "name": "Pan Warzywniak",
+    "opening_hours": "Mo-Fr 09:00-19:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5019481149,
+  "lat": 52.4072809,
+  "lon": 16.9376979,
+  "tags": {
+    "name": "Chata Polska",
+    "shop": "supermarket",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5073798121,
+  "lat": 52.4780905,
+  "lon": 16.7820722,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 22 205 33 00",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 5159751007,
+  "lat": 52.4047153,
+  "lon": 16.9307679,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2E",
+    "addr:postcode": "61-887",
+    "addr:street": "Półwiejska",
+    "brand": "Aldi",
+    "brand:wikidata": "Q125054",
+    "brand:wikipedia": "en:Aldi",
+    "name": "Aldi",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 09:00-20:00",
+    "shop": "supermarket",
+    "source:addr": "e-MODGiK"
+  }
+},
+{
+  "type": "node",
+  "id": 5431398650,
+  "lat": 52.4622746,
+  "lon": 16.9122017,
+  "tags": {
+    "brand": "Chata Polska",
+    "brand:wikidata": "Q61994406",
+    "name": "Chata Polska",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 09:00-18:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5851429465,
+  "lat": 52.3970073,
+  "lon": 16.9025057,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "12",
+    "addr:street": "Józefa Strusia",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "opening_hours": "Mo-Sa 06:15-22:00, Su 08:00-21:00",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:coins": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6040225497,
+  "lat": 52.4303490,
+  "lon": 16.9092845,
+  "tags": {
+    "brand": "Chata Polska",
+    "brand:wikidata": "Q61994406",
+    "name": "Chata Polska",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6071338293,
+  "lat": 52.4069718,
+  "lon": 16.8866832,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:street": "Opalenicka",
+    "name": "warzywniak",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6106748269,
+  "lat": 52.4309842,
+  "lon": 16.9296226,
+  "tags": {
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6270189755,
+  "lat": 52.4063519,
+  "lon": 16.9262184,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "32",
+    "addr:postcode": "61-805",
+    "addr:street": "Święty Marcin",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "name": "Biedronka",
+    "name:fa": "مرغ بانو",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6270201475,
+  "lat": 52.4027054,
+  "lon": 16.9126051,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "61-801",
+    "addr:street": "Dworcowa",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "name": "Biedronka",
+    "opening_hours": "Mo-Sa 06:00-22:00; Su 06:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270207756,
+  "lat": 52.3628781,
+  "lon": 16.9012103,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "name": "Biedronka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6274197696,
+  "lat": 52.4003606,
+  "lon": 16.9280610,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "47",
+    "addr:postcode": "61-886",
+    "addr:street": "Półwiejska",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "level": "0",
+    "name": "Biedronka",
+    "opening_hours": "Mo-Su 06:00-22:30",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6274197697,
+  "lat": 52.3925292,
+  "lon": 16.9168391,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "en:Biedronka",
+    "name": "Biedronka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6482829079,
+  "lat": 52.3792799,
+  "lon": 16.9835521,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "6A",
+    "addr:postcode": "61-285",
+    "addr:street": "Szwedzka",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 6656000419,
+  "lat": 52.4301011,
+  "lon": 16.9205862,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "name": "Biedronka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6851219711,
+  "lat": 52.3967977,
+  "lon": 16.8990920,
+  "tags": {
+    "brand": "Groszek",
+    "name": "Groszek",
+    "opening_hours": "Mo-Fr 06:00-20:00; Sa 06:00-22:00; PH closed; Su 09:00-17:00",
+    "sells:tobacco": "yes",
+    "shop": "supermarket",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6957154036,
+  "lat": 52.3908199,
+  "lon": 16.9750610,
+  "tags": {
+    "brand": "Tad-Market",
+    "name": "Tad-Market",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8579705825,
+  "lat": 52.4326844,
+  "lon": 16.9456425,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "15",
+    "addr:postcode": "61-696",
+    "addr:street": "Serbska",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "name": "Biedronka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8836737095,
+  "lat": 52.3723168,
+  "lon": 17.0019489,
+  "tags": {
+    "name": "Delikatesy Kajmak",
+    "opening_hours": "Mo-Fr 5:00-22:00; Sa 07:00-22:00; Su 10:00-20:00",
+    "shop": "supermarket",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8880380511,
+  "lat": 52.3990341,
+  "lon": 16.9062399,
+  "tags": {
+    "brand": "Netto",
+    "brand:wikidata": "Q552652",
+    "name": "Netto",
+    "opening_hours": "Tu-Sa 06:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.netto.pl/sklepy/poznan/ul-gasiorowskich/425a1d71b8694bc8a300510878ec2f60?mapData=%7B%22coordinates%22%3A%7B%22lat%22%3A52.39896256223606%2C%22lng%22%3A16.906371116638187%7D%2C%22zoom%22%3A14%2C%22input%22%3A%22G%C4%85siorowskich%204%22%7D"
+  }
+},
+{
+  "type": "node",
+  "id": 8912929496,
+  "lat": 52.4567498,
+  "lon": 16.9512979,
+  "tags": {
+    "brand": "Groszek",
+    "brand:wikidata": "Q9280965",
+    "brand:wikipedia": "pl:Groszek (sieć sklepów)",
+    "name": "Groszek",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 9431587317,
+  "lat": 52.4066909,
+  "lon": 16.8770922,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "15/110",
+    "addr:postcode": "60-369",
+    "addr:street": "Brzask",
+    "email": "biuro@ekolandia24.pl",
+    "name": "Ecolandia24",
+    "name:en": "Ekolandia24",
+    "name:pl": "Ekolandia24",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+    "phone": "512-258-898",
+    "shop": "supermarket",
+    "website": "https://ekolandia24.pl/kontakt"
+  }
+},
+{
+  "type": "node",
+  "id": 9738077069,
+  "lat": 52.4355513,
+  "lon": 16.9494124,
+  "tags": {
+    "brand": "Netto",
+    "brand:wikidata": "Q552652",
+    "name": "Netto",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 9766048751,
+  "lat": 52.4431940,
+  "lon": 16.9029907,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "25",
+    "addr:street": "Strzeszyńska",
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "name": "Biedronka",
+    "shop": "supermarket",
+    "source:addr": "Yanosik"
+  }
+},
+{
+  "type": "node",
+  "id": 10584567298,
+  "lat": 52.3806881,
+  "lon": 16.9890883,
+  "tags": {
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "name": "Lidl",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 10803360340,
+  "lat": 52.3806470,
+  "lon": 16.8666610,
+  "tags": {
+    "brand": "Intermarché",
+    "brand:wikidata": "Q3153200",
+    "brand:wikipedia": "fr:Intermarché",
+    "name": "Intermarché",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 10956336630,
+  "lat": 52.3661629,
+  "lon": 16.9286783,
+  "tags": {
+    "brand": "ALDI",
+    "brand:wikidata": "Q41171373",
+    "name": "ALDI",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 10968188858,
+  "lat": 52.3869288,
+  "lon": 16.9827349,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+    "email": "bok@biedronka.eu",
+    "name": "Biedronka",
+    "name:ru": "Бедронка",
+    "operator": "Jeronimo Martins Polska S.A.",
+    "payment:blik": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sodexo": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 22 205 33 00",
+    "shop": "supermarket",
+    "website": "https://www.biedronka.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 11073333712,
+  "lat": 52.3998975,
+  "lon": 16.9128735,
+  "tags": {
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "name": "Lidl",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11226382964,
+  "lat": 52.3999460,
+  "lon": 16.9546383,
+  "tags": {
+    "brand": "Biedronka",
+    "brand:wikidata": "Q857182",
+    "name": "Biedronka",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11388424295,
+  "lat": 52.4237281,
+  "lon": 16.9147314,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "14",
+    "addr:postcode": "60-651",
+    "addr:street": "Generała Stanisława Maczka",
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Fr 06:30 - 22:00; Sa 07:00 - 22:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11388452396,
+  "lat": 52.3875174,
+  "lon": 16.9173246,
+  "tags": {
+    "addr:street": "Mariana Langiewicza",
+    "brand": "Stokrotka",
+    "brand:wikidata": "Q9345945",
+    "name": "Stokrotka",
+    "opening_hours": "Mo-Fr 06:00 - 22:00; Sa 06:30 - 22:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11415711297,
+  "lat": 52.3812082,
+  "lon": 16.8957503,
+  "tags": {
+    "brand": "Carrefour",
+    "brand:wikidata": "Q217599",
+    "name": "Carrefour",
+    "opening_hours": "Mo-Sa 6:00-22:00; Su 9:00-20:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11535011555,
+  "lat": 52.4115654,
+  "lon": 16.8954816,
+  "tags": {
+    "brand": "Netto",
+    "brand:wikidata": "Q552652",
+    "brand:wikipedia": "da:Netto (supermarkedskæde)",
+    "contact:website": "https://netto.pl/sklepy/poznan/polna-28/d77bcaee2b8c4e7886103d191f8e71c0/",
+    "name": "Netto",
+    "name:fa": "نتو",
+    "opening_hours": "Mo-Sa 06:00-22:00",
+    "shop": "supermarket",
+    "source:geometry": "Geopoz: Ewidencja gruntow i budynkow"
+  }
+},
+{
+  "type": "node",
+  "id": 11630368421,
+  "lat": 52.3655674,
+  "lon": 16.8607518,
+  "tags": {
+    "description": "Tonery i tusze do drukarek",
+    "name": "tuszmarkt.pl",
+    "shop": "supermarket",
+    "website": "https://www.tuszmarkt.pl"
+  }
+}
+
+  ]
+}
